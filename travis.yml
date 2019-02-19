@@ -1,8 +1,1 @@
- deploy:
-      provider: codedeploy
-      access_key_id: "AKIAINYDRNFB532HRCBA"
-      secret_access_key: "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"
-      application: Github2Ec2
-      deployment_group: Codedeploytoec2
-      on:
-        branch: master
+
